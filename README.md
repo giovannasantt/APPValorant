@@ -1,7 +1,7 @@
 # APPValorant
 ## Feito por: Giovanna Santana
 
-Aplicativo baseado na Valorant-API, feito para verificar imagens e informações dos agentes do jogo de maneira prática e intuitiva. Projeto feito para avaliação de aplicativos mobile.
+Aplicativo baseado na Valorant-API (https://valorant-api.com/), feito para verificar imagens e informações dos agentes do jogo de maneira prática e intuitiva. Projeto feito para avaliação de aplicativos mobile.
 
 ### Links para wiki:
 
