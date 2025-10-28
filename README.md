@@ -3,16 +3,20 @@
 
 Aplicativo baseado na Valorant-API (https://valorant-api.com/), feito para verificar imagens e informações dos agentes do jogo de maneira prática e intuitiva. Projeto feito para avaliação de aplicativos mobile.
 
-### Sumário
+## Sumário
 
-- Códigos do aplicativo:
+- Explicação da API utilizada:
 
-[Códigos do aplicativo](https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(c%C3%B3digos))
+[API utilizada](https://github.com/giovannasantt/APPValorant/wiki/API-utilizada) 
+
 
 - Detalhes visuais do aplicativo:
 
 [Design do aplicativo](https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(visual))
 
-- Explicação da API utilizada:
+- Códigos do aplicativo:
 
-[API utilizada](https://github.com/giovannasantt/APPValorant/wiki/API-utilizada) 
+[Códigos do aplicativo](https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(c%C3%B3digos))
+
+
+
