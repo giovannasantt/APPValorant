@@ -8,5 +8,7 @@ Aplicativo baseado na Valorant-API (https://valorant-api.com/), feito para verif
 - Códigos do aplicativo:
 https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(c%C3%B3digos)
 
+[Códigos do aplicativo](https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(c%C3%B3digos))
+
 - Detalhes visuais do aplicativo:
 https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(visual)
