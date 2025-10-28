@@ -12,3 +12,7 @@ Aplicativo baseado na Valorant-API (https://valorant-api.com/), feito para verif
 - Detalhes visuais do aplicativo:
 
 [Design do aplicativo](https://github.com/giovannasantt/APPValorant/wiki/Descri%C3%A7%C3%A3o-do-aplicativo-(visual))
+
+- Explicação da API utilizada:
+
+[API utilizada](https://github.com/giovannasantt/APPValorant/wiki/API-utilizada) 
